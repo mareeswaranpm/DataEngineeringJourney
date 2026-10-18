@@ -51,3 +51,4 @@ product_summary.to_csv(
 )
 
 print("\nReports created")
+print("Pipeline executed successfully.")
