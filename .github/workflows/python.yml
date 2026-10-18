@@ -29,3 +29,8 @@ jobs:
       - name: Run Program
         run: |
           python src/pandas_transformation.py
+
+      - name: Build Docker Image
+
+        run: |
+          docker build -t customer-analysis .
