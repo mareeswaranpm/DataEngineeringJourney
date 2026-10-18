@@ -1,5 +1,8 @@
 import pandas as pd
-df = pd.read_csv('data\customer_data.csv')
+import os
+print ("Current Working Directory:")
+print(os.getcwd())
+df = pd.read_csv('data/customer_data.csv')
 print("customer_data_original")
 print(df)
 
