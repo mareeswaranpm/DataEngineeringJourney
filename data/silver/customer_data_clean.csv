@@ -1,0 +1,11 @@
+customer_id,name,city,balance,product
+1001,John,Amsterdam,1200,Savings
+1002,Sarah,Rotterdam,2500,Loan
+1003,Mike,Amsterdam,500,Savings
+1004,Emma,Utrecht,3000,Mortgage
+1005,David,Rotterdam,1500,Savings
+1006,Alice,Amsterdam,4500,Mortgage
+1007,Tom,Utrecht,2000,Loan
+1008,Susan,Eindhoven,3500,Mortgage
+1009,Chris,Eindhoven,800,Savings
+1010,Karen,Rotterdam,2800,Loan
